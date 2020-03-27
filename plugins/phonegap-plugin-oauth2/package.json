@@ -1,0 +1,56 @@
+{
+  "_from": "git+https://github.com/purplecabbage/phonegap-plugin-oauth2.git",
+  "_id": "phonegap-plugin-oauth2@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/phonegap-plugin-oauth2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/purplecabbage/phonegap-plugin-oauth2",
+    "rawSpec": "https://github.com/purplecabbage/phonegap-plugin-oauth2",
+    "saveSpec": "git+https://github.com/purplecabbage/phonegap-plugin-oauth2.git",
+    "fetchSpec": "https://github.com/purplecabbage/phonegap-plugin-oauth2.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/purplecabbage/phonegap-plugin-oauth2.git#144dc4b0b034f3cc4308388132138f65d1dfcd74",
+  "_spec": "https://github.com/purplecabbage/phonegap-plugin-oauth2",
+  "_where": "/mnt/c/cordova/MyApp",
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "phonegap-plugin-oauth2",
+    "platforms": [
+      "ios",
+      "android",
+      "windows"
+    ]
+  },
+  "deprecated": false,
+  "description": "Simple plugin to do OAuth2 authentication within PhoneGap/Cordova apps",
+  "devDependencies": {
+    "jasmine-node": "1.14.5"
+  },
+  "engines": {
+    "cordova": ">=3.0.0"
+  },
+  "homepage": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap"
+  ],
+  "license": "Apache-2.0",
+  "name": "phonegap-plugin-oauth2",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "jasmine-node --color spec"
+  },
+  "version": "0.0.1"
+}
