@@ -29,6 +29,7 @@
     <plugin name="cordova-plugin-media-capture" />
     <plugin name="cordova-plugin-console" />
     <plugin name="cordova-plugin-contacts" />
+	<plugin name="cordova-plugin-oauth" />
     <plugin name="cordova-plugin-device" />
     <plugin name="cordova-plugin-device-motion" />
     <plugin name="cordova-plugin-device-orientation" />
