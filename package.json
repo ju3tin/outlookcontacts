@@ -13,6 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "dependencies": {
+    "cordova-android": "^8.1.0",
     "cordova-browser": "^6.0.0",
     "cordova-plugin-inappbrowser": "^1.7.2",
     "phonegap-plugin-oauth2": "git+https://github.com/purplecabbage/phonegap-plugin-oauth2.git"
@@ -23,7 +24,26 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
-      "phonegap-plugin-oauth2": {}
+      "phonegap-plugin-oauth2": {},
+      "cordova-plugin-battery-status": {},
+      "cordova-plugin-camera": {},
+      "cordova-plugin-media-capture": {},
+      "cordova-plugin-console": {},
+      "cordova-plugin-contacts": {},
+      "cordova-plugin-oauth": {},
+      "cordova-plugin-device": {},
+      "cordova-plugin-device-motion": {},
+      "cordova-plugin-device-orientation": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-file-transfer": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-globalization": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-media": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-vibration": {}
     },
     "platforms": [
       "browser"

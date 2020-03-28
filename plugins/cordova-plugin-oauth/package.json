@@ -1,0 +1,72 @@
+{
+  "_from": "cordova-plugin-oauth",
+  "_id": "cordova-plugin-oauth@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-xpD5ua3gV2Lj7S1wc4Jpqdfso9DD/w6bH+FUFVpZ3+4p1rTKOFHgFNOXeq/ZlWQbXfd/8+KeliqyJSmSRIV8gQ==",
+  "_location": "/cordova-plugin-oauth",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-oauth",
+    "name": "cordova-plugin-oauth",
+    "escapedName": "cordova-plugin-oauth",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-oauth/-/cordova-plugin-oauth-1.1.0.tgz",
+  "_shasum": "bd4d9dc3723c569f5b0ffa1c058aa3945ecb89f9",
+  "_spec": "cordova-plugin-oauth",
+  "_where": "/mnt/c/cordova/MyApp",
+  "author": {
+    "name": "Ayogo Health Inc.",
+    "email": "info@ayogo.com"
+  },
+  "bugs": {
+    "url": "https://github.com/AyogoHealth/cordova-plugin-oauth/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Darryl Pogue",
+      "email": "darryl@dpogue.ca"
+    }
+  ],
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Cordova plugin for performing OAuth login flows.",
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">= 8.0.0"
+    },
+    {
+      "name": "cordova-ios",
+      "version": ">= 5.0.0"
+    }
+  ],
+  "homepage": "https://github.com/AyogoHealth/cordova-plugin-oauth#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-oauth",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyogoHealth/cordova-plugin-oauth.git"
+  },
+  "version": "1.1.0"
+}
