@@ -15,7 +15,7 @@
   "dependencies": {
     "cordova-android": "^8.1.0",
     "cordova-browser": "^6.0.0",
-    "cordova-plugin-inappbrowser": "^1.7.2",
+    "cordova-plugin-inappbrowser": "^3.1.0",
     "phonegap-plugin-oauth2": "git+https://github.com/purplecabbage/phonegap-plugin-oauth2.git"
   },
   "devDependencies": {
